@@ -13,11 +13,11 @@ h1 {
 }
 .ImagePart {
 	position: relative;
-	height: 374px;
+	height: 377px;
 }
 .Overlay {
-	position: absolute;
-    height: 374px;
+    position: absolute;
+    height: 377px;
     width: 100%;
     background-color: #83d3c9;
     z-index: 1;
@@ -25,7 +25,7 @@ h1 {
     display:none;
     top: 0;
     left: 0;
-    line-height: 374px;
+    line-height: 377px;
 }
 .Overlay i {
 	font-size: 32px;
