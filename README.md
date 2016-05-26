@@ -1,5 +1,5 @@
 # Image-Overlay-jQuery
-Image overlay jQuery, which provide the overlay function to you when hover the image. 
+Image overlay jQuery, which provide the overlay function when hover the image. 
 
 #Demo
 A demo can be found at 'index.html' in this repository.
